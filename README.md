@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm parselt134
+### I'm parzelton
 
 - 🎓 Currently pursuing a degree in **Software Engineering**
 
@@ -16,4 +16,4 @@
 [![codewars](https://www.codewars.com/users/_Parsel/badges/large)](https://www.codewars.com/users/_Parsel/)
 
 ## 📫 How to reach me 
-- X: [@parzeech](https://x.com/parzeech)
+- X: [@parzelton](https://x.com/parzelton)
